@@ -1,0 +1,53 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+.form{
+  display: flex;
+  justify-content: center;
+ background-color: dimgray;
+ height: 50%;
+ width: 50%;
+ margin: auto;
+ margin-top: 100px;
+ margin-bottom: 100px;
+ padding: 10px;
+
+}
+
+.forminside{
+  padding: 10px;
+  width: 80%;
+}
+
+.footer{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  color: black;
+  background-color: lightgrey;
+ padding: 10px;
+      /* Height of the footer */
+   
+}
+
+h1{
+  text-align: center;}
+
+.leftmost{
+  margin-top: 40px;
+}
+
+.middle>img{
+  border-radius: 5px;
+}
+
+.rightmost{
+  margin-top: 30px;
+}
